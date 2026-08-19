@@ -1,6 +1,3 @@
-from pathlib import Path
-
-content = """# SmartTeam — Smart Team Workload Management
 
 ## 1. Project Overview
 
